@@ -4,8 +4,7 @@
   💻 Aspiring Software Engineer and Web Developer • 🎯 Focused on Clean Code • 🏗️ Learning by Building
 </p>
 
-## 👨‍💻 About Me
-- 🎓 23 y/o founder of **Oriah Web Studios**  
+## 👨‍💻 About Me  
 - 👨‍💻 Transitioning from web development into full-stack **Software Engineering**  
 - 🧠 Learning C#/.NET by building real-world console & desktop apps  
 - 🔧 Passionate about System design and Clean architecture. I have an in interest in every aspect of the IT industry.  
@@ -48,7 +47,6 @@
 ## 📫 Connect with Me
 
 - 📧 Email: `ramotsepanem@gmail.com` or `oriahwebstudios@outlook.com` 
-- 🏢 Company: [Oriah Web Studios GitHub](https://github.com/OriahWebStudios)
 
 <p align="center">
   <i>"Code with clarity. Build with purpose."</i>
