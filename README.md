@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
-## 📂 Key Projects
-
-| [`OriahWebStudios`](https://github.com/OriahWebStudios) | 🌐 My company repo – includes client projects, web apps & company site |
-
 ## 🎯 Goals & What I’m Working On
 
 - ✔️ Mastering C# and Flask with real-world console and desktop apps  
