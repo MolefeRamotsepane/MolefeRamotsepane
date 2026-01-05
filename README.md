@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Molefe 👋 <br>🐍 Python Software Developer</h1>
+<h1 align="center">Hey there, I'm Molefe 👋 <br>Python Software Developer</h1>
 
 <p align="center">
   💻 Aspiring Software Engineer and Web Developer • 🎯 Focused on Clean Code • 🏗️ Learning by Building
