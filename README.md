@@ -1,78 +1,78 @@
-<h1 align="center">Hey there, I'm Molefe 👋</h1>
+# 💻 Molefe Ramotsepane
+**Aspiring Python Software Engineer • 🎯 Focused on Clean Code • 🏗 Learning by Building**
 
-<p align="center">
-  💻 Aspiring Software Engineer  • 🎯 Focused on Clean Code • 🏗️ Learning by Building
-</p>
+---
 
-<h1>🐍 Python Software Developer
+## 🐍 About Me
+I am an aspiring Python software developer focused on building **practical, non-web applications**.  
+My work centers around **automation, data processing, system utilities, and desktop tools** that solve real-world problems.
 
-Automation • Data Processing • Tools & Desktop Applications</h1>
+I am passionate about writing **clean, maintainable Python code** and designing small systems that are **reliable, readable, and useful**.  
+I am intentionally moving away from web development to focus on Python as a **general-purpose problem-solving language**.
 
-## 👨‍💻 About Me
+I aim to **learn by building real-world projects** that showcase automation, reporting, and workflow optimization, especially for small businesses.
 
-I am an aspiring Python software developer focused on building practical, non-web applications. My work centers around automation, data processing, system utilities, and desktop tools that solve real-world problems.
-
-I enjoy writing clean, maintainable Python code and designing small systems that are reliable, readable, and useful. I am intentionally moving away from web development to focus on Python as a general-purpose software and problem-solving language.
+---
 
 ## 🧠 Areas of Focus
+I am currently focusing on:
+- Python automation & scripting  
+- Data processing and reporting  
+- Command-line tools & system utilities  
+- Desktop applications (PySide6)  
+- Clean code & software design fundamentals  
 
-- Python automation & scripting
+**Not pursuing:** web development or frontend frameworks — my focus is entirely on **Python-based problem solving**.
 
-- Data processing and reporting
+---
 
-- Command-line tools & system utilities
+## 🎯 Current Projects & Learning
+I am actively learning and building projects that reflect **real business needs**, including:
 
-- Desktop applications
+- **Bed Shop Automation System (in progress)**  
+  - Automates invoice generation  
+  - Tracks stock by product, size, and brand  
+  - Handles negotiated pricing and lay-bys  
+  - Generates sales and turnover reports  
 
-- Clean code & software design fundamentals
+- **Data Processing Utilities**  
+  - Python scripts for working with CSV/Excel  
+  - Automating repetitive business reporting tasks  
 
-🚫 No web development
-🚫 No frontend frameworks
+- **Automation Scripts**  
+  - Personal projects to automate small tasks  
+  - Focus on building reusable, maintainable Python code  
 
-## 🏅 Certifications
+> These projects are designed to **solve real-world problems** and serve as learning tools for building professional-quality automation software.
 
-<p>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Technical Support Fundamentals-blue?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-C%23-orange?style=flat&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-IT%20Support-green?style=flat&logo=microsoft&logoColor=white"/>
-</p>
+---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+I am working with and learning to master:
+- `Python` – Core programming and scripting  
+- `PySide6` – Desktop GUI development  
+- `SQLite` – Local database storage for projects  
+- `Pandas` – Data analysis and reporting  
+- `FPDF / ReportLab` – PDF generation for invoices and reports  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
+I focus on **tools that let me automate, analyze, and create desktop applications**, all in Python.
 
-## 🎯 Goals & What I’m Working On
+---
 
-- Become a well-rounded Python software developer (non-web)
+## 🏅 Certifications & Learning Goals
+- CompTIA Fundamentals / IT Certifications (In Progress)  
+- Python Automation / RPA-related courses (In Progress)  
+- Business process automation workflows  
+- Building professional, maintainable Python applications  
 
-- Build a strong portfolio of automation, data, and desktop projects
+> I aim to combine formal learning with **hands-on project experience**.
 
-- Continuously improve code quality, structure, and problem-solving skills
+---
 
-## 📫 Connect with Me
+## 📫 Contact Me
+- Email: [ramotsepanem@gmail.com](mailto:ramotsepanem@gmail.com)  
+- Email: [oriahwebstudios@outlook.com](mailto:oriahwebstudios@outlook.com)
 
-- 📧 Email: `ramotsepanem@gmail.com` or `oriahwebstudios@outlook.com` 
-
-<p align="center">
-  <i>"Code with clarity. Build with purpose."</i>
-</p>
+> "Code with clarity. Build with purpose."
 
 
-<!--
-**MolefeRamotsepane/MolefeRamotsepane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
