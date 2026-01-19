@@ -28,13 +28,7 @@ I am currently focusing on:
 
 ## 🎯 Current Projects & Learning
 I am actively learning and building projects that reflect **real business needs**, including:
-
-- **Bed Shop Automation System (in progress)**  
-  - Automates invoice generation  
-  - Tracks stock by product, size, and brand  
-  - Handles negotiated pricing and lay-bys  
-  - Generates sales and turnover reports  
-
+  
 - **Data Processing Utilities**  
   - Python scripts for working with CSV/Excel  
   - Automating repetitive business reporting tasks  
