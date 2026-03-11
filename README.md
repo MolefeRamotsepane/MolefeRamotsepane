@@ -1,6 +1,6 @@
 # 💻 Molefe Ramotsepane
 
-Aspiring Python Developer | Data Processing • Problem Solving • Desktop Tools
+Aspiring Python Developer and Data Analyst | Microsoft Power BI | Deskop Tools | Backend Development
 
 ---
 
