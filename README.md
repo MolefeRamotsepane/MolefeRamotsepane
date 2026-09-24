@@ -1,6 +1,6 @@
 # Molefe Ramotsepane
 
-### Python Developer | Backend & Systems
+### Python Developer | Backend & Systems Development
 
 I’m a developer focused on building practical web applications and systems with Python.
 
