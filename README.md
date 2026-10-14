@@ -28,7 +28,7 @@ A private two-person movie-watching web application featuring synchronized playb
 
 **Built with:** Python, Flask, Flask-SocketIO, SQLAlchemy, SQLite, HTML, CSS & JavaScript.
 
-→ Developed and published through **oriah.studios**
+→ Developed and published through **oriah.studios (https://github.com/oriah-studios-TSF)**
 
 ## 🎯 Currently Focused On
 
