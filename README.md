@@ -22,6 +22,16 @@ My projects are where I document that journey.
 
 ## 🚀 Projects
 
+### Sona.Guard
+
+An estate access-control and visitor management system built with Flask. The project focuses on staff authentication, role-based permissions, estate-level access restrictions, residential unit management, and resident access verification.
+
+**Built with:** Python, Flask, Flask-SQLAlchemy, Flask-Login, Flask-Migrate, SQLite, HTML, CSS & JavaScript.
+
+→ Developed through **oriah.studios** (https://github.com/oriah-studios-TSF/Sona.Guard)
+
+**Status:** In development.
+
 ### the.room
 
 A private two-person movie-watching web application featuring synchronized playback, persistent chat, authentication, movie management, and real-time communication.
