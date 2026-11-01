@@ -22,6 +22,16 @@ My projects are where I document that journey.
 
 ## 🚀 Projects
 
+### triq
+
+An AI-assisted IT support ticket analyzer built with Flask. The project focuses on automated ticket classification, priority assessment, structured analysis, and troubleshooting recommendations. It integrates a locally hosted Qwen 3 1.7B language model through Ollama, with a rule-based fallback when the AI service is unavailable.
+
+**Built with:** Python, Flask, JavaScript, HTML, CSS, REST API, Ollama & Qwen 3 1.7B.
+
+→ Developed through **oriah.studios** (https://github.com/oriah-studios-TSF/triq.git)
+
+**Status:** Core functionality complete. Published on GitHub.
+
 ### Sona.Guard
 
 An estate access-control and visitor management system built with Flask. The project focuses on staff authentication, role-based permissions, estate-level access restrictions, residential unit management, and resident access verification.
